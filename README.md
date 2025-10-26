@@ -11,7 +11,6 @@ This website comprises of many pages like first home page, menu bar in which all
 Chat server feature is used in this website which helps user to interact with team.
 
 These are the proposes which we will implementing:
-
 1. Smart Parking solution: The website will have a menu for smart parking system which will help the drivers to find parking slots without wasting time and hastle free parking.
 
 2. EV Charging Station: The website will also have an online portal for EV charging stations which will show the number of empty and acquired charging slots. This will also have a feature of online payment and a reminder for disconnecting the charger.
